@@ -1,0 +1,13 @@
+﻿<Window x:Class="WinActivate.KMSKeys"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WinActivate"
+        mc:Ignorable="d"
+        Title="KMS Keys" Height="450" Width="500">
+    <Grid>
+        <Label Content="Windows 10/11 Pro = W269N-WFGWX-YVC9B-4J6C9-T83GX&#xD;&#xA;&#xD;&#xA;Windows 10/11 Pro N = MH37W-N47XK-V7XM9-C7227-GCQG9&#xD;&#xA;&#xD;&#xA;Windows 10/11 Pro for Workstations = NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J&#xD;&#xA;&#xD;&#xA;Windows 10/11 Pro for Workstations N = 9FNHH-K3HBT-3W4TD-6383H-6XYWF&#xD;&#xA;&#xD;&#xA;Windows 10/11 Pro Education = 6TP4R-GNPTD-KYYHQ-7B7DP-J447Y&#xD;&#xA;&#xD;&#xA;Windows 10/11 Pro Education N = YVWGF-BXNMC-HTQYQ-CPQ99-66QFC&#xD;&#xA;&#xD;&#xA;Windows 10/11 Education = NW6C2-QMPVW-D7KKK-3GKT6-VCFB2&#xD;&#xA;&#xD;&#xA;Windows 10/11 Education N = 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ&#xD;&#xA;&#xD;&#xA;Windows 10/11 Enterprise = NPPR9-FWDCX-D2C8J-H872K-2YT43&#xD;&#xA;&#xD;&#xA;Windows 10/11 Enterprise N = DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4&#xD;&#xA;&#xD;&#xA;Windows 10/11 Enterprise G = YYVX9-NTFWV-6MDM3-9PT4T-4M68B&#xD;&#xA;&#xD;&#xA;Windows 10/11 Enterprise G N = 44RPN-FTY23-9VTTB-MP9BX-T84FV" HorizontalAlignment="Center" VerticalAlignment="Top" Width="470" Height="424" FontSize="13" Margin="0,-2,0,0"/>
+
+    </Grid>
+</Window>
